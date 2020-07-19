@@ -9,4 +9,6 @@ Heartbeat
 
 In this scenario, we'll be taking a single VM and getting its availability.
 
-![alt text](https://github.com/NicolasRementeria/Azure-KQL-Queries-Examples/blob/master/Pictures/Heartbeat_ex_1.png "Heartbeat Example 1")
+![alt text](https://github.com/NicolasRementeria/Azure-KQL-Queries-Examples/blob/master/Pictures/Heartbeat_ex_1_a.png "Heartbeat Example 1 A")
+
+![alt text](https://github.com/NicolasRementeria/Azure-KQL-Queries-Examples/blob/master/Pictures/Heartbeat_ex_1_b.png "Heartbeat Example 1 B")
