@@ -1,4 +1,4 @@
-# Calculate SLO, %Pass and Remining Error Budget
+# Calculate SLO, %Pass and Remaining Error Budget
 
 For this query to work, the  table must contain an aggregation of the availability of the product.
 
